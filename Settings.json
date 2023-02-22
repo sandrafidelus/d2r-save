@@ -59,9 +59,9 @@
     "Language": 0,
     "Light Quality": 2,
     "Lobby Allow Bnet Friends Join": 1,
-    "Lobby Difficulty": 0,
+    "Lobby Difficulty": 2,
     "Lobby Level Difference Enabled": 0,
-    "Lobby Max Difference": 10,
+    "Lobby Max Difference": 35,
     "Lobby Max Players": 8,
     "Lobby Wide Item Drop Enabled": 0,
     "Low Vision Mode": 0,
@@ -83,7 +83,7 @@
     "Sharpening": 6,
     "Show Clock": 0,
     "Show HP Text": 1,
-    "Show MP Text": 0,
+    "Show MP Text": 1,
     "Skill Ammo Feedback": 0,
     "Subtitles": 1,
     "TTS Speed": 50,
@@ -93,7 +93,7 @@
     "Texture Quality": 5,
     "Transparency Quality": 5,
     "Tutorial": 3,
-    "User Last Online": 1676550661919866200,
+    "User Last Online": 1676878450988365600,
     "VSync": 0,
     "Verb Disable": 0,
     "Vfx Lighting Quality": 3,
@@ -103,5 +103,6 @@
     "Offline Difficulty Scaling": 1,
     "Quick Cast Enabled": 1,
     "Confine Cursor": 1,
-    "Display Active Skill Bindings": 1
+    "Display Active Skill Bindings": 1,
+    "Desecrated Zones Enabled": 1
 }
